@@ -109,7 +109,7 @@ namespace LIVROCSHARP
 
             WriteLine("isNullOrEmpty verifica se a string está nula ou vazia");
             string nome = "Renato";
-            string sobrenome = null;
+            string sobrenome = "";
                 if (!String.IsNullOrEmpty(nome) && !String.IsNullOrEmpty(sobrenome))
                 {
                     WriteLine($"Nome completo:{nome}{sobrenome}");
