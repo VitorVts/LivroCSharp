@@ -1,0 +1,14 @@
+/home/vts/Documents/LIVROCSHARP/bin/Debug/net8.0/LIVROCSHARP
+/home/vts/Documents/LIVROCSHARP/bin/Debug/net8.0/LIVROCSHARP.deps.json
+/home/vts/Documents/LIVROCSHARP/bin/Debug/net8.0/LIVROCSHARP.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/bin/Debug/net8.0/LIVROCSHARP.dll
+/home/vts/Documents/LIVROCSHARP/bin/Debug/net8.0/LIVROCSHARP.pdb
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.dll
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/refint/LIVROCSHARP.dll
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.pdb
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/ref/LIVROCSHARP.dll
