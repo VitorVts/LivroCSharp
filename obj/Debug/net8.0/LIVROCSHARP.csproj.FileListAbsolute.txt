@@ -12,3 +12,4 @@
 /home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.pdb
 /home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.genruntimeconfig.cache
 /home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/ref/LIVROCSHARP.dll
+/home/vts/Documents/LIVROCSHARP/obj/Debug/net8.0/LIVROCSHARP.sourcelink.json
