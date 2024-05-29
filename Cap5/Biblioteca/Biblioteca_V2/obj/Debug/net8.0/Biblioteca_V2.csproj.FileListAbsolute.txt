@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/bin/Debug/net8.0/Biblioteca_V2
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/bin/Debug/net8.0/Biblioteca_V2.deps.json
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/bin/Debug/net8.0/Biblioteca_V2.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/bin/Debug/net8.0/Biblioteca_V2.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/bin/Debug/net8.0/Biblioteca_V2.pdb
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/refint/Biblioteca_V2.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.pdb
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/Biblioteca_V2.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V2/obj/Debug/net8.0/ref/Biblioteca_V2.dll

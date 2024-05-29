@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/bin/Debug/net8.0/Biblioteca_V1
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/bin/Debug/net8.0/Biblioteca_V1.deps.json
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/bin/Debug/net8.0/Biblioteca_V1.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/bin/Debug/net8.0/Biblioteca_V1.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/bin/Debug/net8.0/Biblioteca_V1.pdb
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/refint/Biblioteca_V1.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.pdb
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/Biblioteca_V1.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/Biblioteca/Biblioteca_V1/obj/Debug/net8.0/ref/Biblioteca_V1.dll

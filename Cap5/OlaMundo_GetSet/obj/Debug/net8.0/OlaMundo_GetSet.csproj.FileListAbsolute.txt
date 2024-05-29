@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/bin/Debug/net8.0/OlaMundo_GetSet
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/bin/Debug/net8.0/OlaMundo_GetSet.deps.json
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/bin/Debug/net8.0/OlaMundo_GetSet.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/bin/Debug/net8.0/OlaMundo_GetSet.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/bin/Debug/net8.0/OlaMundo_GetSet.pdb
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/refint/OlaMundo_GetSet.dll
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.pdb
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/OlaMundo_GetSet.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/Cap5/OlaMundo_GetSet/obj/Debug/net8.0/ref/OlaMundo_GetSet.dll

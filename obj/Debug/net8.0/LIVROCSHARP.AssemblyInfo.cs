@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LIVROCSHARP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c7c644b670bddf745324a32bed40838135bb6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cb60079e9cd2403428bc196b61849468d587f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIVROCSHARP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIVROCSHARP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
