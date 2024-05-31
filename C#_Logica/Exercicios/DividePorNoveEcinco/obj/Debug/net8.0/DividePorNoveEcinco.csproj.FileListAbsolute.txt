@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/bin/Debug/net8.0/DividePorNoveEcinco
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/bin/Debug/net8.0/DividePorNoveEcinco.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/bin/Debug/net8.0/DividePorNoveEcinco.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/bin/Debug/net8.0/DividePorNoveEcinco.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/bin/Debug/net8.0/DividePorNoveEcinco.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/refint/DividePorNoveEcinco.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/DividePorNoveEcinco.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DividePorNoveEcinco/obj/Debug/net8.0/ref/DividePorNoveEcinco.dll

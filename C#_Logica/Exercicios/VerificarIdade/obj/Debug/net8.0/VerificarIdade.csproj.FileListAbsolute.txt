@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/bin/Debug/net8.0/VerificarIdade
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/bin/Debug/net8.0/VerificarIdade.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/bin/Debug/net8.0/VerificarIdade.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/bin/Debug/net8.0/VerificarIdade.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/bin/Debug/net8.0/VerificarIdade.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/refint/VerificarIdade.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/VerificarIdade.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificarIdade/obj/Debug/net8.0/ref/VerificarIdade.dll

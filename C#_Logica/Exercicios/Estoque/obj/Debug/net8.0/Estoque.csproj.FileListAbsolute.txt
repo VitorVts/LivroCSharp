@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/bin/Debug/net8.0/Estoque
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/bin/Debug/net8.0/Estoque.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/bin/Debug/net8.0/Estoque.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/bin/Debug/net8.0/Estoque.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/bin/Debug/net8.0/Estoque.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/refint/Estoque.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/Estoque.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Estoque/obj/Debug/net8.0/ref/Estoque.dll

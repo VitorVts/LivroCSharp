@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/bin/Debug/net8.0/ParOuImpar
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/bin/Debug/net8.0/ParOuImpar.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/bin/Debug/net8.0/ParOuImpar.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/bin/Debug/net8.0/ParOuImpar.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/bin/Debug/net8.0/ParOuImpar.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/refint/ParOuImpar.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ParOuImpar.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ParOuImpar/obj/Debug/net8.0/ref/ParOuImpar.dll
