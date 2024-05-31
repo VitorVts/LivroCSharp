@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/bin/Debug/net8.0/PrimeiroAlgoritmo
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/bin/Debug/net8.0/PrimeiroAlgoritmo.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/bin/Debug/net8.0/PrimeiroAlgoritmo.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/bin/Debug/net8.0/PrimeiroAlgoritmo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/bin/Debug/net8.0/PrimeiroAlgoritmo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/refint/PrimeiroAlgoritmo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/PrimeiroAlgoritmo.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PrimeiroAlgoritmo/obj/Debug/net8.0/ref/PrimeiroAlgoritmo.dll

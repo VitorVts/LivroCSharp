@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/bin/Debug/net8.0/EstruturaDeRepeticao
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/bin/Debug/net8.0/EstruturaDeRepeticao.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/bin/Debug/net8.0/EstruturaDeRepeticao.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/bin/Debug/net8.0/EstruturaDeRepeticao.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/bin/Debug/net8.0/EstruturaDeRepeticao.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/refint/EstruturaDeRepeticao.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/EstruturaDeRepeticao.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturaDeRepeticao/obj/Debug/net8.0/ref/EstruturaDeRepeticao.dll

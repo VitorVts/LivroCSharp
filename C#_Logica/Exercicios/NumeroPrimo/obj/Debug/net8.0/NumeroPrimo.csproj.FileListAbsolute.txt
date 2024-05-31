@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/bin/Debug/net8.0/NumeroPrimo
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/bin/Debug/net8.0/NumeroPrimo.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/bin/Debug/net8.0/NumeroPrimo.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/bin/Debug/net8.0/NumeroPrimo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/bin/Debug/net8.0/NumeroPrimo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/refint/NumeroPrimo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/NumeroPrimo.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/NumeroPrimo/obj/Debug/net8.0/ref/NumeroPrimo.dll

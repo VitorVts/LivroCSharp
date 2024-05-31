@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/refint/EstruturasCondicionais.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EstruturasCondicionais/obj/Debug/net8.0/ref/EstruturasCondicionais.dll
