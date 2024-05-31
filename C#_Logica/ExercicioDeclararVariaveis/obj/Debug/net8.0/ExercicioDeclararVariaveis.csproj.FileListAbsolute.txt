@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/bin/Debug/net8.0/ExercicioDeclararVariaveis
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/bin/Debug/net8.0/ExercicioDeclararVariaveis.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/bin/Debug/net8.0/ExercicioDeclararVariaveis.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/bin/Debug/net8.0/ExercicioDeclararVariaveis.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/bin/Debug/net8.0/ExercicioDeclararVariaveis.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/refint/ExercicioDeclararVariaveis.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ExercicioDeclararVariaveis.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/ExercicioDeclararVariaveis/obj/Debug/net8.0/ref/ExercicioDeclararVariaveis.dll

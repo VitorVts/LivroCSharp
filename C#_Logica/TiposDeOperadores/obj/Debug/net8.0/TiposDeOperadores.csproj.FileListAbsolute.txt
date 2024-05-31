@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/bin/Debug/net8.0/TiposDeOperadores
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/bin/Debug/net8.0/TiposDeOperadores.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/bin/Debug/net8.0/TiposDeOperadores.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/bin/Debug/net8.0/TiposDeOperadores.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/bin/Debug/net8.0/TiposDeOperadores.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/refint/TiposDeOperadores.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/TiposDeOperadores.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/TiposDeOperadores/obj/Debug/net8.0/ref/TiposDeOperadores.dll

@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/bin/Debug/net8.0/Entrada_e_Saída_de_Dados
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/bin/Debug/net8.0/Entrada_e_Saída_de_Dados.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/bin/Debug/net8.0/Entrada_e_Saída_de_Dados.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/bin/Debug/net8.0/Entrada_e_Saída_de_Dados.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/bin/Debug/net8.0/Entrada_e_Saída_de_Dados.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/refint/Entrada_e_Saída_de_Dados.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/Entrada_e_Saída_de_Dados.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Entrada_e_Saída_de_Dados/obj/Debug/net8.0/ref/Entrada_e_Saída_de_Dados.dll
