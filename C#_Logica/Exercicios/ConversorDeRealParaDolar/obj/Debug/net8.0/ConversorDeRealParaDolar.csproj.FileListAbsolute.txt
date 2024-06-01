@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/bin/Debug/net8.0/ConversorDeRealParaDolar
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/bin/Debug/net8.0/ConversorDeRealParaDolar.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/bin/Debug/net8.0/ConversorDeRealParaDolar.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/bin/Debug/net8.0/ConversorDeRealParaDolar.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/bin/Debug/net8.0/ConversorDeRealParaDolar.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/refint/ConversorDeRealParaDolar.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ConversorDeRealParaDolar.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ConversorDeRealParaDolar/obj/Debug/net8.0/ref/ConversorDeRealParaDolar.dll

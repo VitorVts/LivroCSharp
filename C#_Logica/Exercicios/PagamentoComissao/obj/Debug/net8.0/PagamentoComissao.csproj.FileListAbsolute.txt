@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/bin/Debug/net8.0/PagamentoComissao
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/bin/Debug/net8.0/PagamentoComissao.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/bin/Debug/net8.0/PagamentoComissao.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/bin/Debug/net8.0/PagamentoComissao.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/bin/Debug/net8.0/PagamentoComissao.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/refint/PagamentoComissao.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/PagamentoComissao.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PagamentoComissao/obj/Debug/net8.0/ref/PagamentoComissao.dll
