@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/bin/Debug/net8.0/PropriedadeDistributiva
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/bin/Debug/net8.0/PropriedadeDistributiva.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/bin/Debug/net8.0/PropriedadeDistributiva.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/bin/Debug/net8.0/PropriedadeDistributiva.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/bin/Debug/net8.0/PropriedadeDistributiva.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/refint/PropriedadeDistributiva.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/PropriedadeDistributiva.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/PropriedadeDistributiva/obj/Debug/net8.0/ref/PropriedadeDistributiva.dll

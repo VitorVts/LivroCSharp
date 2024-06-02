@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/bin/Debug/net8.0/RelacionamentosDeOrdem
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/bin/Debug/net8.0/RelacionamentosDeOrdem.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/bin/Debug/net8.0/RelacionamentosDeOrdem.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/bin/Debug/net8.0/RelacionamentosDeOrdem.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/bin/Debug/net8.0/RelacionamentosDeOrdem.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/refint/RelacionamentosDeOrdem.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/RelacionamentosDeOrdem.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/RelacionamentosDeOrdem/obj/Debug/net8.0/ref/RelacionamentosDeOrdem.dll

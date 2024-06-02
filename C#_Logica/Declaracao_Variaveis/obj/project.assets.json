@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vts/Documents/LIVROCSHARP/C#_Logica/C#_Logica.csproj",
+      "projectUniqueName": "/home/vts/Documents/LIVROCSHARP/C#_Logica/Declaracao_Variaveis/C#_Logica.csproj",
       "projectName": "C#_Logica",
-      "projectPath": "/home/vts/Documents/LIVROCSHARP/C#_Logica/C#_Logica.csproj",
+      "projectPath": "/home/vts/Documents/LIVROCSHARP/C#_Logica/Declaracao_Variaveis/C#_Logica.csproj",
       "packagesPath": "/home/vts/.nuget/packages/",
-      "outputPath": "/home/vts/Documents/LIVROCSHARP/C#_Logica/obj/",
+      "outputPath": "/home/vts/Documents/LIVROCSHARP/C#_Logica/Declaracao_Variaveis/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vts/.nuget/NuGet/NuGet.Config"

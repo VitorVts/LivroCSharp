@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/bin/Debug/net8.0/CalculoIdade
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/bin/Debug/net8.0/CalculoIdade.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/bin/Debug/net8.0/CalculoIdade.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/bin/Debug/net8.0/CalculoIdade.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/bin/Debug/net8.0/CalculoIdade.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/refint/CalculoIdade.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/CalculoIdade.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CalculoIdade/obj/Debug/net8.0/ref/CalculoIdade.dll

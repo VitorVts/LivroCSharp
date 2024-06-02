@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/bin/Debug/net8.0/CelsiusToFahrenheit
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/bin/Debug/net8.0/CelsiusToFahrenheit.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/bin/Debug/net8.0/CelsiusToFahrenheit.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/bin/Debug/net8.0/CelsiusToFahrenheit.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/bin/Debug/net8.0/CelsiusToFahrenheit.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/refint/CelsiusToFahrenheit.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/CelsiusToFahrenheit.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CelsiusToFahrenheit/obj/Debug/net8.0/ref/CelsiusToFahrenheit.dll

@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/bin/Debug/net8.0/VelocidadeMedia
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/bin/Debug/net8.0/VelocidadeMedia.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/bin/Debug/net8.0/VelocidadeMedia.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/bin/Debug/net8.0/VelocidadeMedia.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/bin/Debug/net8.0/VelocidadeMedia.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/refint/VelocidadeMedia.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/VelocidadeMedia.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VelocidadeMedia/obj/Debug/net8.0/ref/VelocidadeMedia.dll

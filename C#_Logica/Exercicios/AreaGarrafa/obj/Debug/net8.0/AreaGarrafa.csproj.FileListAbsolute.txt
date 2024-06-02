@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/bin/Debug/net8.0/AreaGarrafa
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/bin/Debug/net8.0/AreaGarrafa.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/bin/Debug/net8.0/AreaGarrafa.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/bin/Debug/net8.0/AreaGarrafa.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/bin/Debug/net8.0/AreaGarrafa.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/refint/AreaGarrafa.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/AreaGarrafa.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/AreaGarrafa/obj/Debug/net8.0/ref/AreaGarrafa.dll
