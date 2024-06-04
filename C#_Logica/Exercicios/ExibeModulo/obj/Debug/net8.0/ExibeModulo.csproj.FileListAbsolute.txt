@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/bin/Debug/net8.0/ExibeModulo
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/bin/Debug/net8.0/ExibeModulo.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/bin/Debug/net8.0/ExibeModulo.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/bin/Debug/net8.0/ExibeModulo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/bin/Debug/net8.0/ExibeModulo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/refint/ExibeModulo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ExibeModulo.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ExibeModulo/obj/Debug/net8.0/ref/ExibeModulo.dll

@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/bin/Debug/net8.0/IverterVariaveis
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/bin/Debug/net8.0/IverterVariaveis.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/bin/Debug/net8.0/IverterVariaveis.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/bin/Debug/net8.0/IverterVariaveis.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/bin/Debug/net8.0/IverterVariaveis.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/refint/IverterVariaveis.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/IverterVariaveis.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/IverterVariaveis/obj/Debug/net8.0/ref/IverterVariaveis.dll

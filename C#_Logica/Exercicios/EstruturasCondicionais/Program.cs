@@ -9,7 +9,7 @@ namespace EstruturasCondicionais
 {
     public class EstruturasCondicionais
     {
-        public static void Main(string[] args)
+        public static void Main(string[]args)
         {
             string nomeUser, nomeProduto;
             double saldoUser, valorProduto,valorPosCompra;
