@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/bin/Debug/net8.0/Medianota
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/bin/Debug/net8.0/Medianota.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/bin/Debug/net8.0/Medianota.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/bin/Debug/net8.0/Medianota.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/bin/Debug/net8.0/Medianota.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/refint/Medianota.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/Medianota.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Medianota/obj/Debug/net8.0/ref/Medianota.dll

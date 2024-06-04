@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/bin/Debug/net8.0/DiferençaNumeros
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/bin/Debug/net8.0/DiferençaNumeros.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/bin/Debug/net8.0/DiferençaNumeros.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/bin/Debug/net8.0/DiferençaNumeros.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/bin/Debug/net8.0/DiferençaNumeros.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/refint/DiferençaNumeros.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/DiferençaNumeros.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/DiferençaNumeros/obj/Debug/net8.0/ref/DiferençaNumeros.dll

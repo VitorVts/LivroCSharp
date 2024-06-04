@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/bin/Debug/net8.0/CondicaoDeNumero
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/bin/Debug/net8.0/CondicaoDeNumero.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/bin/Debug/net8.0/CondicaoDeNumero.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/bin/Debug/net8.0/CondicaoDeNumero.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/bin/Debug/net8.0/CondicaoDeNumero.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/refint/CondicaoDeNumero.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/CondicaoDeNumero.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoDeNumero/obj/Debug/net8.0/ref/CondicaoDeNumero.dll

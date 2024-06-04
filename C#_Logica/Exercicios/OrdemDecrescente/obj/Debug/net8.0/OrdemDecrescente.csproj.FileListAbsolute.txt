@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/bin/Debug/net8.0/OrdemDecrescente
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/bin/Debug/net8.0/OrdemDecrescente.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/bin/Debug/net8.0/OrdemDecrescente.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/bin/Debug/net8.0/OrdemDecrescente.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/bin/Debug/net8.0/OrdemDecrescente.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/refint/OrdemDecrescente.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/OrdemDecrescente.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/OrdemDecrescente/obj/Debug/net8.0/ref/OrdemDecrescente.dll
