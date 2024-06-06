@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/bin/Debug/net8.0/23Calculadora
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/bin/Debug/net8.0/23Calculadora.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/bin/Debug/net8.0/23Calculadora.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/bin/Debug/net8.0/23Calculadora.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/bin/Debug/net8.0/23Calculadora.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/refint/23Calculadora.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/23Calculadora.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/23Calculadora/obj/Debug/net8.0/ref/23Calculadora.dll
