@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/bin/Debug/net8.0/25PesoIdeal
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/bin/Debug/net8.0/25PesoIdeal.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/bin/Debug/net8.0/25PesoIdeal.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/bin/Debug/net8.0/25PesoIdeal.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/bin/Debug/net8.0/25PesoIdeal.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/refint/25PesoIdeal.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/25PesoIdeal.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/25PesoIdeal/obj/Debug/net8.0/ref/25PesoIdeal.dll
