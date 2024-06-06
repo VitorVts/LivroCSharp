@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/bin/Debug/net8.0/Reescrita
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/bin/Debug/net8.0/Reescrita.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/bin/Debug/net8.0/Reescrita.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/bin/Debug/net8.0/Reescrita.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/bin/Debug/net8.0/Reescrita.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/refint/Reescrita.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/Reescrita.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/Reescrita/obj/Debug/net8.0/ref/Reescrita.dll

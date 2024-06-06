@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/bin/Debug/net8.0/EntradaUsuario
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/bin/Debug/net8.0/EntradaUsuario.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/bin/Debug/net8.0/EntradaUsuario.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/bin/Debug/net8.0/EntradaUsuario.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/bin/Debug/net8.0/EntradaUsuario.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/refint/EntradaUsuario.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/EntradaUsuario.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/EntradaUsuario/obj/Debug/net8.0/ref/EntradaUsuario.dll

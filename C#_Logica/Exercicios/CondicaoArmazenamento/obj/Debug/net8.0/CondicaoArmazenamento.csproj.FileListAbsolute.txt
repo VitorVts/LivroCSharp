@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/bin/Debug/net8.0/CondicaoArmazenamento
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/bin/Debug/net8.0/CondicaoArmazenamento.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/bin/Debug/net8.0/CondicaoArmazenamento.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/bin/Debug/net8.0/CondicaoArmazenamento.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/bin/Debug/net8.0/CondicaoArmazenamento.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/refint/CondicaoArmazenamento.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/CondicaoArmazenamento.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/CondicaoArmazenamento/obj/Debug/net8.0/ref/CondicaoArmazenamento.dll
