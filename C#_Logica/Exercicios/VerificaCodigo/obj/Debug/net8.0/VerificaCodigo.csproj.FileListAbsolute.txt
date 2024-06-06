@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/bin/Debug/net8.0/VerificaCodigo
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/bin/Debug/net8.0/VerificaCodigo.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/bin/Debug/net8.0/VerificaCodigo.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/bin/Debug/net8.0/VerificaCodigo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/bin/Debug/net8.0/VerificaCodigo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/refint/VerificaCodigo.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/VerificaCodigo.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/VerificaCodigo/obj/Debug/net8.0/ref/VerificaCodigo.dll

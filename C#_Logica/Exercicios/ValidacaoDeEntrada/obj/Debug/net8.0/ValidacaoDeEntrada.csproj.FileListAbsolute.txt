@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/bin/Debug/net8.0/ValidacaoDeEntrada
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/bin/Debug/net8.0/ValidacaoDeEntrada.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/bin/Debug/net8.0/ValidacaoDeEntrada.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/bin/Debug/net8.0/ValidacaoDeEntrada.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/bin/Debug/net8.0/ValidacaoDeEntrada.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/refint/ValidacaoDeEntrada.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ValidacaoDeEntrada.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/ValidacaoDeEntrada/obj/Debug/net8.0/ref/ValidacaoDeEntrada.dll
