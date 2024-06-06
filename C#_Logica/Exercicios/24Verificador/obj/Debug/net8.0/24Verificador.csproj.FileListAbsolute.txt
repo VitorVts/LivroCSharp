@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/bin/Debug/net8.0/24Verificador
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/bin/Debug/net8.0/24Verificador.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/bin/Debug/net8.0/24Verificador.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/bin/Debug/net8.0/24Verificador.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/bin/Debug/net8.0/24Verificador.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/refint/24Verificador.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/24Verificador.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/24Verificador/obj/Debug/net8.0/ref/24Verificador.dll
