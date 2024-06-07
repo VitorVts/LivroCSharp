@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/bin/Debug/net8.0/27-Fatorial
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/bin/Debug/net8.0/27-Fatorial.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/bin/Debug/net8.0/27-Fatorial.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/bin/Debug/net8.0/27-Fatorial.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/bin/Debug/net8.0/27-Fatorial.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/refint/27-Fatorial.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/27-Fatorial.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/27-Fatorial/obj/Debug/net8.0/ref/27-Fatorial.dll
