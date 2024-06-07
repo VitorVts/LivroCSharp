@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/bin/Debug/net8.0/29-Exibir_1a2000
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/bin/Debug/net8.0/29-Exibir_1a2000.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/bin/Debug/net8.0/29-Exibir_1a2000.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/bin/Debug/net8.0/29-Exibir_1a2000.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/bin/Debug/net8.0/29-Exibir_1a2000.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/refint/29-Exibir_1a2000.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/29-Exibir_1a2000.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/29-Exibir_1a2000/obj/Debug/net8.0/ref/29-Exibir_1a2000.dll
