@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/bin/Debug/net8.0/28-Impar_entre_1e200
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/bin/Debug/net8.0/28-Impar_entre_1e200.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/bin/Debug/net8.0/28-Impar_entre_1e200.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/bin/Debug/net8.0/28-Impar_entre_1e200.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/bin/Debug/net8.0/28-Impar_entre_1e200.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/refint/28-Impar_entre_1e200.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/28-Impar_entre_1e200.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/28-Impar_entre_1e200/obj/Debug/net8.0/ref/28-Impar_entre_1e200.dll
