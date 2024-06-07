@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/bin/Debug/net8.0/Tabuada
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/bin/Debug/net8.0/Tabuada.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/bin/Debug/net8.0/Tabuada.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/bin/Debug/net8.0/Tabuada.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/bin/Debug/net8.0/Tabuada.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/refint/Tabuada.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/Tabuada.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/30-Tabuada/obj/Debug/net8.0/ref/Tabuada.dll
