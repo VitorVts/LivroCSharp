@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#_Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd67ce670dc5cc1d1c410a227c232324ede076c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d40bc58c42f59db2b90f12c42409e0d9dfb2d2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#_Logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#_Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
