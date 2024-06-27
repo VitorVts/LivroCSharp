@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExibeModulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d3e3e2c49ca959d489ad46908baba15bdbee79f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cffa0d89cdb26e23de747a84473f392aef9c6cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExibeModulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExibeModulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
