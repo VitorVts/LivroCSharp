@@ -1,0 +1,15 @@
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/bin/Debug/net8.0/59
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/bin/Debug/net8.0/59.deps.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/bin/Debug/net8.0/59.runtimeconfig.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/bin/Debug/net8.0/59.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/bin/Debug/net8.0/59.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.AssemblyInfoInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.AssemblyInfo.cs
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.csproj.CoreCompileInputs.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.sourcelink.json
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/refint/59.dll
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.pdb
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/59.genruntimeconfig.cache
+/home/vts/Documents/LIVROCSHARP/C#_Logica/Exercicios/59/obj/Debug/net8.0/ref/59.dll
